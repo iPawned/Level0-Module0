@@ -1,4 +1,4 @@
-import random
+    import random
 import turtle
 
 
@@ -14,7 +14,7 @@ if __name__ == '__main__':
     window.bgcolor('white')
     
     # Make a new turtle
-    
+    jeff = turtle.Turtle()
     # This code sets our shape to a turtle
     
     # Set your turtle's speed (0=fastest, 1=slowest, 10=faster)
