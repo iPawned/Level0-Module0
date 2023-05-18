@@ -1,4 +1,4 @@
-from tkinter import messagebox, simpledialog, Tk
+sfrom tkinter import messagebox, simpledialog, Tk
 
 # Create an if-main code block, *hint, type main then ctrl+space to auto-complete
 if __name__ == '__main__':
